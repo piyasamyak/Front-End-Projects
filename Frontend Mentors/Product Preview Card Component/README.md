@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [Click Here.](https://github.com/piyasamyak/Front-End-Projects/tree/main/Frontend%20Mentors/Product%20Preview%20Card%20Component)
+- Live Site URL: 
 
 ## My process
 
