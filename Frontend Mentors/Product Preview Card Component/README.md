@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Solution Screenshot.png)
+![](https://github.com/piyasamyak/Front-End-Projects/blob/main/Frontend%20Mentors/Product%20Preview%20Card%20Component/images/Solution%20Screenshot.png)
 
 ### Links
 
